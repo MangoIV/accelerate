@@ -17,3 +17,10 @@
 /docs/_build
 *.hi
 *.o
+
+
+# nix + direnv related
+.direnv/
+.envrc
+.pre-commit-config.yaml
+result*
